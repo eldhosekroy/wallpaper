@@ -1,90 +1,362 @@
-# orangc's walls, catppuccin-mocha edition
-Hi! This is my repository of wallpapers which I've collected over the years. This is the catppuccin-mocha version; the normal repo is available [here](https://github.com/orangci/walls).
-
-> Disclaimer: These wallpapers are sourced from many, many, many sources on the internet. I did not make any of these, although I have *edited* several of them a little bit and use lutgen to convert them from their normal versions in orangci/walls to the catppuccin-mocha colour scheme. Zero credit belongs to me in that regard, I'm simply the collector. If you are the artist of one of these wallpapers, please [**contact me**](https://orangc.net), I will happily take the wallpaper down or add credit in this README.
-# Preview
-| Column 1 | Column 2 | Column 3 | Column 4 |
-|---------|---------|---------|---------|
-| ![3d-model.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/3d-model.jpg) | ![abandoned-trainstation.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/abandoned-trainstation.jpg) | ![abstract-swirls.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/abstract-swirls.jpg) | ![aesthetic.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/aesthetic.jpg) |
-| ![artificial-valley.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/artificial-valley.jpg) | ![atlantis.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/atlantis.jpg) | ![bars.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/bars.jpg) | ![basement.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/basement.jpg) |
-| ![beach.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/beach.jpg) | ![beach-path.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/beach-path.jpg) | ![berries-1.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/berries-1.jpg) | ![berries-2.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/berries-2.jpg) |
-| ![biking-sunset.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/biking-sunset.jpg) | ![blueberries.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/blueberries.jpg) | ![blue-flowers.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/blue-flowers.jpg) | ![bluehour.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/bluehour.jpg) |
-| ![c4-spring-sakura-sky.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/c4-spring-sakura-sky.jpg) | ![cabin-2.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/cabin-2.jpg) | ![call-it-a-day.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/call-it-a-day.jpg) | ![cat-street.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/cat-street.jpg) |
-| ![city-horizon.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/city-horizon.jpg) | ![city-on-water.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/city-on-water.jpg) | ![cliff-path.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/cliff-path.jpg) | ![cloud-coffee.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/cloud-coffee.jpg) |
-| ![clouds-3.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/clouds-3.jpg) | ![clouds-5.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/clouds-5.jpg) | ![compass.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/compass.jpg) | ![cool.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/cool.jpg) |
-| ![corals-fish-underwater.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/corals-fish-underwater.jpg) | ![danbo.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/danbo.jpg) | ![dark-forest.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dark-forest.jpg) | ![dark-star.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dark-star.jpg) |
-| ![dark-waves.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dark-waves.jpg) | ![deer-glade.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/deer-glade.jpg) | ![desolate-city-2.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/desolate-city-2.jpg) | ![desolate-city.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/desolate-city.jpg) |
-| ![diner-lonely-road.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/diner-lonely-road.jpg) | ![dino.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dino.jpg) | ![dominik-mayer-10.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-10.jpg) | ![dominik-mayer-11.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-11.jpg) |
-| ![dominik-mayer-12.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-12.jpg) | ![dominik-mayer-13.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-13.jpg) | ![dominik-mayer-14.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-14.jpg) | ![dominik-mayer-15.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-15.jpg) |
-| ![dominik-mayer-16.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-16.jpg) | ![dominik-mayer-17.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-17.jpg) | ![dominik-mayer-19.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-19.jpg) | ![dominik-mayer-1.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-1.jpg) |
-| ![dominik-mayer-20.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-20.jpg) | ![dominik-mayer-21.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-21.jpg) | ![dominik-mayer-22.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-22.jpg) | ![dominik-mayer-23.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-23.jpg) |
-| ![dominik-mayer-24.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-24.jpg) | ![dominik-mayer-25.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-25.jpg) | ![dominik-mayer-26.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-26.jpg) | ![dominik-mayer-2.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-2.jpg) |
-| ![dominik-mayer-4.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-4.jpg) | ![dominik-mayer-5.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-5.jpg) | ![dominik-mayer-6.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-6.jpg) | ![dominik-mayer-7.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-7.jpg) |
-| ![dominik-mayer-8.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-8.jpg) | ![dominik-mayer-9.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-9.jpg) | ![dragon.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dragon.jpg) | ![dwarf-saber.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dwarf-saber.jpg) |
-| ![eclipse.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/eclipse.jpg) | ![excalibur-lake.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/excalibur-lake.jpg) | ![fantasy-city.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/fantasy-city.jpg) | ![fight.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/fight.jpg) |
-| ![fishing.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/fishing.jpg) | ![flower-field.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flower-field.jpg) | ![flower.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flower.jpg) | ![flowers-10.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-10.jpg) |
-| ![flowers-11.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-11.jpg) | ![flowers-12.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-12.jpg) | ![flowers-13.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-13.jpg) | ![flowers-14.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-14.jpg) |
-| ![flowers-15.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-15.jpg) | ![flowers-16.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-16.jpg) | ![flowers-18.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-18.jpg) | ![flowers-19.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-19.jpg) |
-| ![flowers-1.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-1.jpg) | ![flowers-20.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-20.jpg) | ![flowers-2.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-2.jpg) | ![flowers-3.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-3.jpg) |
-| ![flowers-4.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-4.jpg) | ![flowers-5.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-5.jpg) | ![flowers-6.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-6.jpg) | ![flowers-7.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-7.jpg) |
-| ![flowers-8.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-8.jpg) | ![flowers-9.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-9.jpg) | ![flying-boat.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flying-boat.jpg) | ![flying-comets-clouds.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flying-comets-clouds.jpg) |
-| ![foggy-city.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/foggy-city.jpg) | ![fumo-fumo.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/fumo-fumo.jpg) | ![galaxy-waves.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/galaxy-waves.jpg) | ![gingerbread-house.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/gingerbread-house.jpg) |
-| ![grandfather-tree.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/grandfather-tree.jpg) | ![grassy-well.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/grassy-well.jpg) | ![green-bridge.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/green-bridge.jpg) | ![greenbus.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/greenbus.jpg) |
-| ![harbor.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/harbor.jpg) | ![haunted-house.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/haunted-house.jpg) | ![hollow.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/hollow.jpg) | ![hollow-knight.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/hollow-knight.jpg) |
-| ![horizon-2.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/horizon-2.jpg) | ![horizon.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/horizon.jpg) | ![ice-cream.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/ice-cream.jpg) | ![isekai.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/isekai.jpg) |
-| ![i-touch-this.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/i-touch-this.jpg) | ![jellyfish.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/jellyfish.jpg) | ![kfc.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/kfc.jpg) | ![kitty.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/kitty.jpg) |
-| ![kiwis.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/kiwis.jpg) | ![knights-radiant.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/knights-radiant.jpg) | ![knight-templar.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/knight-templar.jpg) | ![koi.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/koi.jpg) |
-| ![koishi.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/koishi.jpg) | ![laundry.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/laundry.jpg) | ![lightbulbs.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/lightbulbs.jpg) | ![lighthouse.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/lighthouse.jpg) |
-| ![linux-communism.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/linux-communism.jpg) | ![lovely-summer.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/lovely-summer.jpg) | ![mage.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/mage.jpg) | ![maji-no-tabitabi-2.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/maji-no-tabitabi-2.jpg) |
-| ![maji-no-tabitabi-3.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/maji-no-tabitabi-3.jpg) | ![majo-no-tabitabi.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/majo-no-tabitabi.jpg) | ![marine-tunnel.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/marine-tunnel.jpg) | ![misty-boat.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/misty-boat.jpg) |
-| ![moscow.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/moscow.jpg) | ![mountain-range.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/mountain-range.jpg) | ![mushishi.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/mushishi.jpg) | ![old-car.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/old-car.jpg) |
-| ![one-legged-herdazian.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/one-legged-herdazian.jpg) | ![orange.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/orange.jpg) | ![oranges.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/oranges.jpg) | ![oversized-cat.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/oversized-cat.jpg) |
-| ![painting.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/painting.jpg) | ![painting-standing.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/painting-standing.jpg) | ![paint.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/paint.jpg) | ![panes.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/panes.jpg) |
-| ![pine.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/pine.jpg) | ![pink-clouds.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/pink-clouds.jpg) | ![pistachio-tea.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/pistachio-tea.jpg) | ![pixel-prairie.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/pixel-prairie.jpg) |
-| ![pizza.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/pizza.jpg) | ![platform.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/platform.jpg) | ![puffy-stars.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/puffy-stars.jpg) | ![purpled-night.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/purpled-night.jpg) |
-| ![purple-horizon.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/purple-horizon.jpg) | ![railroad-2.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/railroad-2.jpg) | ![railroad-flowers.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/railroad-flowers.jpg) | ![river-city.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/river-city.jpg) |
-| ![road.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/road.jpg) | ![rocket-launch.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/rocket-launch.jpg) | ![rocket-schematics.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/rocket-schematics.jpg) | ![rooftops.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/rooftops.jpg) |
-| ![ruins.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/ruins.jpg) | ![sakura-aura.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/sakura-aura.jpg) | ![sakura-gate.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/sakura-gate.jpg) | ![sakura-trees-over-river.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/sakura-trees-over-river.jpg) |
-| ![salty-suburban.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/salty-suburban.jpg) | ![samurai.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/samurai.jpg) | ![scifi.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/scifi.jpg) | ![serenity.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/serenity.jpg) |
-| ![ship-3.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/ship-3.jpg) | ![shrimp-fried-rice.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/shrimp-fried-rice.jpg) | ![signal-enthusiast.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/signal-enthusiast.jpg) | ![snowflakes.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/snowflakes.jpg) |
-| ![snowy-train.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/snowy-train.jpg) | ![soaring-off.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/soaring-off.jpg) | ![soft-rose.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/soft-rose.jpg) | ![south-pole.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/south-pole.jpg) |
-| ![space.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/space.jpg) | ![square-city.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/square-city.jpg) | ![stall.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/stall.jpg) | ![storm.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/storm.jpg) |
-| ![subway.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/subway.jpg) | ![sunset.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/sunset.jpg) | ![sushi.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/sushi.jpg) | ![swirls.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/swirls.jpg) |
-| ![swirly-painting.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/swirly-painting.jpg) | ![sword.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/sword.jpg) | ![tank.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/tank.jpg) | ![temple.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/temple.jpg) |
-| ![tora.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/tora.jpg) | ![touhou-house.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/touhou-house.jpg) | ![touhou-lake.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/touhou-lake.jpg) | ![train-station.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/train-station.jpg) |
-| ![tree.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/tree.jpg) | ![tree-stump.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/tree-stump.jpg) | ![trolley.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/trolley.jpg) | ![tux-socialism.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/tux-socialism.jpg) |
-| ![underwater-deep.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/underwater-deep.jpg) | ![village-gate.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/village-gate.jpg) | ![voxel-city.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voxel-city.jpg) | ![voyager-10.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-10.jpg) |
-| ![voyager-11.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-11.jpg) | ![voyager-12.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-12.jpg) | ![voyager-13.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-13.jpg) | ![voyager-14.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-14.jpg) |
-| ![voyager-15.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-15.jpg) | ![voyager-16.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-16.jpg) | ![voyager-17.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-17.jpg) | ![voyager-18.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-18.jpg) |
-| ![voyager-19.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-19.jpg) | ![voyager-1.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-1.jpg) | ![voyager-20.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-20.jpg) | ![voyager-21.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-21.jpg) |
-| ![voyager-22.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-22.jpg) | ![voyager-2.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-2.jpg) | ![voyager-3.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-3.jpg) | ![voyager-4.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-4.jpg) |
-| ![voyager-5.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-5.jpg) | ![voyager-6.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-6.jpg) | ![voyager-7.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-7.jpg) | ![voyager-8.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-8.jpg) |
-| ![voyager-9.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voyager-9.jpg) | ![wallhaven-vqoo1p.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/wallhaven-vqoo1p.jpg) | ![wall.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/wall.jpg) | ![wanderer.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/wanderer.jpg) |
-| ![whale.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/whale.jpg) | ![windows-xp.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/windows-xp.jpg) | ![winter-flowers.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/winter-flowers.jpg) | ![yohoho.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/yohoho.jpg) |
-| ![zuchold-archtecture.jpg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/zuchold-archtecture.jpg) | ![chess-gate.jpeg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/chess-gate.jpeg) | ![rainy-window.jpeg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/rainy-window.jpeg) | ![shadow-shape-holo.jpeg](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/shadow-shape-holo.jpeg) |
-| ![asian-village.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/asian-village.png) | ![astronaut.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/astronaut.png) | ![black-hole.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/black-hole.png) | ![blue-kaiju.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/blue-kaiju.png) |
-| ![blue-landscape.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/blue-landscape.png) | ![blueprint.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/blueprint.png) | ![bsod.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/bsod.png) | ![bunnies-road.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/bunnies-road.png) |
-| ![cabin-3.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/cabin-3.png) | ![cabin-4.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/cabin-4.png) | ![cabin.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/cabin.png) | ![car-1.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/car-1.png) |
-| ![cartoon-castle.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/cartoon-castle.png) | ![car-wreck.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/car-wreck.png) | ![castle.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/castle.png) | ![cat-in-clouds.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/cat-in-clouds.png) |
-| ![cat-vibin.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/cat-vibin.png) | ![city-harbor.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/city-harbor.png) | ![city.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/city.png) | ![clearing.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/clearing.png) |
-| ![clouds-2.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/clouds-2.png) | ![clouds-3.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/clouds-3.png) | ![clouds.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/clouds.png) | ![coffee-shop.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/coffee-shop.png) |
-| ![cold-alley.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/cold-alley.png) | ![cottages-river.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/cottages-river.png) | ![crane.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/crane.png) | ![day-forest-path.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/day-forest-path.png) |
-| ![degirled.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/degirled.png) | ![disco.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/disco.png) | ![dominik-mayer-18.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/dominik-mayer-18.png) | ![droplets.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/droplets.png) |
-| ![flower-branch.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flower-branch.png) | ![flower-field-2.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flower-field-2.png) | ![flower-field-3.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flower-field-3.png) | ![flowering-rain.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowering-rain.png) |
-| ![flowers-17.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-17.png) | ![flowers-21.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/flowers-21.png) | ![fox.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/fox.png) | ![genshin-landscape.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/genshin-landscape.png) |
-| ![gentlemen-sunset.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/gentlemen-sunset.png) | ![girl-stars.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/girl-stars.png) | ![harbor-3.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/harbor-3.png) | ![hollow-knight.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/hollow-knight.png) |
-| ![idk-tbh.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/idk-tbh.png) | ![japan-alley.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/japan-alley.png) | ![jupiter.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/jupiter.png) | ![kaiju.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/kaiju.png) |
-| ![keyboard-2.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/keyboard-2.png) | ![keyboard.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/keyboard.png) | ![kitchen.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/kitchen.png) | ![knight-building.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/knight-building.png) |
-| ![knight-sit.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/knight-sit.png) | ![kusuriya.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/kusuriya.png) | ![lantern-light-room.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/lantern-light-room.png) | ![lighthouse-2.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/lighthouse-2.png) |
-| ![link-click-1.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/link-click-1.png) | ![lit-up-sky.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/lit-up-sky.png) | ![main-street.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/main-street.png) | ![map.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/map.png) |
-| ![math.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/math.png) | ![minimalist-black-hole.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/minimalist-black-hole.png) | ![moon-beach.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/moon-beach.png) | ![my-neighbor-totoro-sunflowers.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/my-neighbor-totoro-sunflowers.png) |
-| ![night-forest-path.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/night-forest-path.png) | ![old-computer.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/old-computer.png) | ![pitstop.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/pitstop.png) | ![pixel-alley.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/pixel-alley.png) |
-| ![pixel-car.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/pixel-car.png) | ![pixel-castle.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/pixel-castle.png) | ![pixel-earth.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/pixel-earth.png) | ![pixel-galaxy.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/pixel-galaxy.png) |
-| ![pixel-napping.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/pixel-napping.png) | ![pixel-planet.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/pixel-planet.png) | ![pixel-reading.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/pixel-reading.png) | ![plane-purple.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/plane-purple.png) |
-| ![pompeii.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/pompeii.png) | ![railroad-cat.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/railroad-cat.png) | ![railroad-horizon.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/railroad-horizon.png) | ![red-city.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/red-city.png) |
-| ![satellite.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/satellite.png) | ![ship-2.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/ship-2.png) | ![snowy-map.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/snowy-map.png) | ![sousou-no-frieren-flowers.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/sousou-no-frieren-flowers.png) |
-| ![space-piano.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/space-piano.png) | ![space.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/space.png) | ![stormlight-archive.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/stormlight-archive.png) | ![street-4.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/street-4.png) |
-| ![street.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/street.png) | ![sunken-tower.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/sunken-tower.png) | ![toast.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/toast.png) | ![tower.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/tower.png) |
-| ![train-sideview.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/train-sideview.png) | ![trippy-purple.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/trippy-purple.png) | ![van-chilling.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/van-chilling.png) | ![venice-market.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/venice-market.png) |
-| ![vibrant-gate.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/vibrant-gate.png) | ![voxel-houses-monochrome.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/voxel-houses-monochrome.png) | ![waterfall.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/waterfall.png) | ![waves.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/waves.png) |
-| ![wheat.png](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/wheat.png) | ![retro2_live.gif](https://raw.githubusercontent.com/orangci/walls-catppuccin-mocha/master/retro2_live.gif) | | |
+![${file##*/}](wall/3d-model.jpg)
+![${file##*/}](wall/abandoned-trainstation.jpg)
+![${file##*/}](wall/abstract-swirls.jpg)
+![${file##*/}](wall/aesthetic.jpg)
+![${file##*/}](wall/artificial-valley.jpg)
+![${file##*/}](wall/asian-village.png)
+![${file##*/}](wall/astronaut.png)
+![${file##*/}](wall/atlantis.jpg)
+![${file##*/}](wall/bars.jpg)
+![${file##*/}](wall/basement.jpg)
+![${file##*/}](wall/beach.jpg)
+![${file##*/}](wall/beach-path.jpg)
+![${file##*/}](wall/berries-1.jpg)
+![${file##*/}](wall/berries-2.jpg)
+![${file##*/}](wall/biking-sunset.jpg)
+![${file##*/}](wall/black-hole.png)
+![${file##*/}](wall/blueberries.jpg)
+![${file##*/}](wall/blue-flowers.jpg)
+![${file##*/}](wall/bluehour.jpg)
+![${file##*/}](wall/blue-kaiju.png)
+![${file##*/}](wall/blue-landscape.png)
+![${file##*/}](wall/blueprint.png)
+![${file##*/}](wall/bsod.png)
+![${file##*/}](wall/bunnies-road.png)
+![${file##*/}](wall/c4-spring-sakura-sky.jpg)
+![${file##*/}](wall/cabin-2.jpg)
+![${file##*/}](wall/cabin-3.png)
+![${file##*/}](wall/cabin-4.png)
+![${file##*/}](wall/cabin.png)
+![${file##*/}](wall/call-it-a-day.jpg)
+![${file##*/}](wall/car-1.png)
+![${file##*/}](wall/cartoon-castle.png)
+![${file##*/}](wall/car-with-full-moon-background.jpg)
+![${file##*/}](wall/car-wreck.png)
+![${file##*/}](wall/castle.png)
+![${file##*/}](wall/cat-in-clouds.png)
+![${file##*/}](wall/cat-vibin.png)
+![${file##*/}](wall/chess-gate.jpeg)
+![${file##*/}](wall/city-harbor.png)
+![${file##*/}](wall/city-horizon.jpg)
+![${file##*/}](wall/city-on-water.jpg)
+![${file##*/}](wall/city.png)
+![${file##*/}](wall/clearing.png)
+![${file##*/}](wall/cliff-path.jpg)
+![${file##*/}](wall/cloud-coffee.jpg)
+![${file##*/}](wall/clouds-2.png)
+![${file##*/}](wall/clouds-3.jpg)
+![${file##*/}](wall/clouds-3.png)
+![${file##*/}](wall/clouds-5.jpg)
+![${file##*/}](wall/clouds.png)
+![${file##*/}](wall/coffee-shop.png)
+![${file##*/}](wall/cold-alley.png)
+![${file##*/}](wall/compass.jpg)
+![${file##*/}](wall/cool.jpg)
+![${file##*/}](wall/corals-fish-underwater.jpg)
+![${file##*/}](wall/cottages-river.png)
+![${file##*/}](wall/crane.png)
+![${file##*/}](wall/danbo.jpg)
+![${file##*/}](wall/dark-forest.jpg)
+![${file##*/}](wall/dark-star.jpg)
+![${file##*/}](wall/dark-waves.jpg)
+![${file##*/}](wall/day-forest-path.png)
+![${file##*/}](wall/deer-glade.jpg)
+![${file##*/}](wall/degirled.png)
+![${file##*/}](wall/demon10.jpg)
+![${file##*/}](wall/demon1.jpg)
+![${file##*/}](wall/demon2.jpg)
+![${file##*/}](wall/demon3.jpg)
+![${file##*/}](wall/demon4.jpg)
+![${file##*/}](wall/demon5.jpg)
+![${file##*/}](wall/demon6.jpg)
+![${file##*/}](wall/demon7.jpg)
+![${file##*/}](wall/demon8.jpg)
+![${file##*/}](wall/demon9.jpg)
+![${file##*/}](wall/desolate-city-2.jpg)
+![${file##*/}](wall/desolate-city.jpg)
+![${file##*/}](wall/diner-lonely-road.jpg)
+![${file##*/}](wall/dino.jpg)
+![${file##*/}](wall/disco.png)
+![${file##*/}](wall/dominik-mayer-10.jpg)
+![${file##*/}](wall/dominik-mayer-11.jpg)
+![${file##*/}](wall/dominik-mayer-12.jpg)
+![${file##*/}](wall/dominik-mayer-13.jpg)
+![${file##*/}](wall/dominik-mayer-14.jpg)
+![${file##*/}](wall/dominik-mayer-15.jpg)
+![${file##*/}](wall/dominik-mayer-16.jpg)
+![${file##*/}](wall/dominik-mayer-17.jpg)
+![${file##*/}](wall/dominik-mayer-18.png)
+![${file##*/}](wall/dominik-mayer-19.jpg)
+![${file##*/}](wall/dominik-mayer-1.jpg)
+![${file##*/}](wall/dominik-mayer-20.jpg)
+![${file##*/}](wall/dominik-mayer-21.jpg)
+![${file##*/}](wall/dominik-mayer-22.jpg)
+![${file##*/}](wall/dominik-mayer-23.jpg)
+![${file##*/}](wall/dominik-mayer-24.jpg)
+![${file##*/}](wall/dominik-mayer-25.jpg)
+![${file##*/}](wall/dominik-mayer-26.jpg)
+![${file##*/}](wall/dominik-mayer-2.jpg)
+![${file##*/}](wall/dominik-mayer-4.jpg)
+![${file##*/}](wall/dominik-mayer-5.jpg)
+![${file##*/}](wall/dominik-mayer-6.jpg)
+![${file##*/}](wall/dominik-mayer-7.jpg)
+![${file##*/}](wall/dominik-mayer-8.jpg)
+![${file##*/}](wall/dominik-mayer-9.jpg)
+![${file##*/}](wall/dragon.jpg)
+![${file##*/}](wall/droplets.png)
+![${file##*/}](wall/dwarf-saber.jpg)
+![${file##*/}](wall/eclipse.jpg)
+![${file##*/}](wall/excalibur-lake.jpg)
+![${file##*/}](wall/fantasy-city.jpg)
+![${file##*/}](wall/fight.jpg)
+![${file##*/}](wall/fishing.jpg)
+![${file##*/}](wall/flower-branch.png)
+![${file##*/}](wall/flower-field-2.png)
+![${file##*/}](wall/flower-field-3.png)
+![${file##*/}](wall/flower-field.jpg)
+![${file##*/}](wall/flowering-rain.png)
+![${file##*/}](wall/flower.jpg)
+![${file##*/}](wall/flowers-10.jpg)
+![${file##*/}](wall/flowers-11.jpg)
+![${file##*/}](wall/flowers-12.jpg)
+![${file##*/}](wall/flowers-13.jpg)
+![${file##*/}](wall/flowers-14.jpg)
+![${file##*/}](wall/flowers-15.jpg)
+![${file##*/}](wall/flowers-16.jpg)
+![${file##*/}](wall/flowers-17.png)
+![${file##*/}](wall/flowers-18.jpg)
+![${file##*/}](wall/flowers-19.jpg)
+![${file##*/}](wall/flowers-1.jpg)
+![${file##*/}](wall/flowers-20.jpg)
+![${file##*/}](wall/flowers-21.png)
+![${file##*/}](wall/flowers-2.jpg)
+![${file##*/}](wall/flowers-3.jpg)
+![${file##*/}](wall/flowers-4.jpg)
+![${file##*/}](wall/flowers-5.jpg)
+![${file##*/}](wall/flowers-6.jpg)
+![${file##*/}](wall/flowers-7.jpg)
+![${file##*/}](wall/flowers-8.jpg)
+![${file##*/}](wall/flowers-9.jpg)
+![${file##*/}](wall/flying-boat.jpg)
+![${file##*/}](wall/flying-comets-clouds.jpg)
+![${file##*/}](wall/foggy-city.jpg)
+![${file##*/}](wall/fox.png)
+![${file##*/}](wall/fumo-fumo.jpg)
+![${file##*/}](wall/galaxy-waves.jpg)
+![${file##*/}](wall/genshin-landscape.png)
+![${file##*/}](wall/gentlemen-sunset.png)
+![${file##*/}](wall/gingerbread-house.jpg)
+![${file##*/}](wall/girl-stars.png)
+![${file##*/}](wall/grandfather-tree.jpg)
+![${file##*/}](wall/grassy-well.jpg)
+![${file##*/}](wall/green-bridge.jpg)
+![${file##*/}](wall/greenbus.jpg)
+![${file##*/}](wall/harbor-3.png)
+![${file##*/}](wall/harbor.jpg)
+![${file##*/}](wall/haunted-house.jpg)
+![${file##*/}](wall/hollow.jpg)
+![${file##*/}](wall/hollow-knight.jpg)
+![${file##*/}](wall/hollow-knight.png)
+![${file##*/}](wall/horizon-2.jpg)
+![${file##*/}](wall/horizon.jpg)
+![${file##*/}](wall/ice-cream.jpg)
+![${file##*/}](wall/idk-tbh.png)
+![${file##*/}](wall/isekai.jpg)
+![${file##*/}](wall/i-touch-this.jpg)
+![${file##*/}](wall/japan-alley.png)
+![${file##*/}](wall/jellyfish.jpg)
+![${file##*/}](wall/jupiter.png)
+![${file##*/}](wall/kaiju.png)
+![${file##*/}](wall/keyboard-2.png)
+![${file##*/}](wall/keyboard.png)
+![${file##*/}](wall/kfc.jpg)
+![${file##*/}](wall/kitchen.png)
+![${file##*/}](wall/kitty.jpg)
+![${file##*/}](wall/kiwis.jpg)
+![${file##*/}](wall/knight-building.png)
+![${file##*/}](wall/knight-sit.png)
+![${file##*/}](wall/knights-radiant.jpg)
+![${file##*/}](wall/knight-templar.jpg)
+![${file##*/}](wall/koi.jpg)
+![${file##*/}](wall/koishi.jpg)
+![${file##*/}](wall/kusuriya.png)
+![${file##*/}](wall/lantern-light-room.png)
+![${file##*/}](wall/laundry.jpg)
+![${file##*/}](wall/lightbulbs.jpg)
+![${file##*/}](wall/lighthouse-2.png)
+![${file##*/}](wall/lighthouse.jpg)
+![${file##*/}](wall/link-click-1.png)
+![${file##*/}](wall/linux-communism.jpg)
+![${file##*/}](wall/lit-up-sky.png)
+![${file##*/}](wall/lofiwallpaper.png)
+![${file##*/}](wall/lovely-summer.jpg)
+![${file##*/}](wall/mage.jpg)
+![${file##*/}](wall/main-street.png)
+![${file##*/}](wall/maji-no-tabitabi-2.jpg)
+![${file##*/}](wall/maji-no-tabitabi-3.jpg)
+![${file##*/}](wall/majo-no-tabitabi.jpg)
+![${file##*/}](wall/map.png)
+![${file##*/}](wall/marine-tunnel.jpg)
+![${file##*/}](wall/math.png)
+![${file##*/}](wall/minimalist-black-hole.png)
+![${file##*/}](wall/misty-boat.jpg)
+![${file##*/}](wall/moon-beach.png)
+![${file##*/}](wall/moscow.jpg)
+![${file##*/}](wall/mountain-range.jpg)
+![${file##*/}](wall/mushishi.jpg)
+![${file##*/}](wall/my-neighbor-totoro-sunflowers.png)
+![${file##*/}](wall/nice-blue-background.png)
+![${file##*/}](wall/night-forest-path.png)
+![${file##*/}](wall/old-car.jpg)
+![${file##*/}](wall/old-computer.png)
+![${file##*/}](wall/one-legged-herdazian.jpg)
+![${file##*/}](wall/orange.jpg)
+![${file##*/}](wall/output.jpg)
+![${file##*/}](wall/oversized-cat.jpg)
+![${file##*/}](wall/painting.jpg)
+![${file##*/}](wall/painting-standing.jpg)
+![${file##*/}](wall/paint.jpg)
+![${file##*/}](wall/panes.jpg)
+![${file##*/}](wall/pine.jpg)
+![${file##*/}](wall/pink-clouds.jpg)
+![${file##*/}](wall/pistachio-tea.jpg)
+![${file##*/}](wall/pitstop.png)
+![${file##*/}](wall/pixel-car.png)
+![${file##*/}](wall/pixel-castle.png)
+![${file##*/}](wall/pixel-galaxy.png)
+![${file##*/}](wall/pixel-napping.png)
+![${file##*/}](wall/pixel-planet.png)
+![${file##*/}](wall/pixel-prairie.jpg)
+![${file##*/}](wall/pixel-reading.png)
+![${file##*/}](wall/plane-purple.png)
+![${file##*/}](wall/platform.jpg)
+![${file##*/}](wall/pompeii.png)
+![${file##*/}](wall/puffy-stars.jpg)
+![${file##*/}](wall/purpled-night.jpg)
+![${file##*/}](wall/purple-horizon.jpg)
+![${file##*/}](wall/railroad-2.jpg)
+![${file##*/}](wall/railroad-cat.png)
+![${file##*/}](wall/railroad-flowers.jpg)
+![${file##*/}](wall/railroad-horizon.png)
+![${file##*/}](wall/rainy-window.jpeg)
+![${file##*/}](wall/README.md)
+![${file##*/}](wall/red-city.png)
+![${file##*/}](wall/retro2_live.gif)
+![${file##*/}](wall/river-city.jpg)
+![${file##*/}](wall/road.jpg)
+![${file##*/}](wall/rocket-launch.jpg)
+![${file##*/}](wall/rocket-schematics.jpg)
+![${file##*/}](wall/rooftops.jpg)
+![${file##*/}](wall/ruins.jpg)
+![${file##*/}](wall/sakura-aura.jpg)
+![${file##*/}](wall/sakura-gate.jpg)
+![${file##*/}](wall/sakura-trees-over-river.jpg)
+![${file##*/}](wall/salty-suburban.jpg)
+![${file##*/}](wall/samurai.jpg)
+![${file##*/}](wall/satellite.png)
+![${file##*/}](wall/S_aveng10.jpg)
+![${file##*/}](wall/S_aveng1.jpg)
+![${file##*/}](wall/S_aveng2.jpg)
+![${file##*/}](wall/S_aveng3.jpg)
+![${file##*/}](wall/S_aveng4.jpg)
+![${file##*/}](wall/S_aveng5.jpg)
+![${file##*/}](wall/S_aveng6.jpg)
+![${file##*/}](wall/S_aveng7.jpg)
+![${file##*/}](wall/S_aveng8.jpg)
+![${file##*/}](wall/S_aveng9.jpg)
+![${file##*/}](wall/scifi.jpg)
+![${file##*/}](wall/serenity.jpg)
+![${file##*/}](wall/shaded_landscape.png)
+![${file##*/}](wall/shaded.png)
+![${file##*/}](wall/shadow-shape-holo.jpeg)
+![${file##*/}](wall/ship-2.png)
+![${file##*/}](wall/ship-3.jpg)
+![${file##*/}](wall/shrimp-fried-rice.jpg)
+![${file##*/}](wall/signal-enthusiast.jpg)
+![${file##*/}](wall/snowflakes.jpg)
+![${file##*/}](wall/snowy-map.png)
+![${file##*/}](wall/snowy-train.jpg)
+![${file##*/}](wall/soaring-off.jpg)
+![${file##*/}](wall/soft-rose.jpg)
+![${file##*/}](wall/sousou-no-frieren-flowers.png)
+![${file##*/}](wall/south-pole.jpg)
+![${file##*/}](wall/space.jpg)
+![${file##*/}](wall/space-piano.png)
+![${file##*/}](wall/space.png)
+![${file##*/}](wall/square-city.jpg)
+![${file##*/}](wall/S_spiderman10.jpg)
+![${file##*/}](wall/S_spiderman1.jpg)
+![${file##*/}](wall/S_spiderman2.jpg)
+![${file##*/}](wall/S_spiderman3.jpg)
+![${file##*/}](wall/S_spiderman4.jpg)
+![${file##*/}](wall/S_spiderman5.jpg)
+![${file##*/}](wall/S_spiderman6.jpg)
+![${file##*/}](wall/S_spiderman7.jpg)
+![${file##*/}](wall/S_spiderman8.jpg)
+![${file##*/}](wall/S_spiderman9.jpg)
+![${file##*/}](wall/stall.jpg)
+![${file##*/}](wall/storm.jpg)
+![${file##*/}](wall/stormlight-archive.png)
+![${file##*/}](wall/street-4.png)
+![${file##*/}](wall/street.png)
+![${file##*/}](wall/subway.jpg)
+![${file##*/}](wall/sunken-tower.png)
+![${file##*/}](wall/sunset.jpg)
+![${file##*/}](wall/sushi.jpg)
+![${file##*/}](wall/swirls.jpg)
+![${file##*/}](wall/swirly-painting.jpg)
+![${file##*/}](wall/sword.jpg)
+![${file##*/}](wall/tank.jpg)
+![${file##*/}](wall/temple.jpg)
+![${file##*/}](wall/toast.png)
+![${file##*/}](wall/tora.jpg)
+![${file##*/}](wall/touhou-house.jpg)
+![${file##*/}](wall/touhou-lake.jpg)
+![${file##*/}](wall/tower.png)
+![${file##*/}](wall/train-sideview.png)
+![${file##*/}](wall/train-station.jpg)
+![${file##*/}](wall/tree.jpg)
+![${file##*/}](wall/tree-stump.jpg)
+![${file##*/}](wall/trippy-purple.png)
+![${file##*/}](wall/trolley.jpg)
+![${file##*/}](wall/tux-socialism.jpg)
+![${file##*/}](wall/underwater-deep.jpg)
+![${file##*/}](wall/van-chilling.png)
+![${file##*/}](wall/venice-market.png)
+![${file##*/}](wall/vibrant-gate.png)
+![${file##*/}](wall/village-gate.jpg)
+![${file##*/}](wall/voxel-city.jpg)
+![${file##*/}](wall/voxel-houses-monochrome.png)
+![${file##*/}](wall/voyager-10.jpg)
+![${file##*/}](wall/voyager-11.jpg)
+![${file##*/}](wall/voyager-12.jpg)
+![${file##*/}](wall/voyager-13.jpg)
+![${file##*/}](wall/voyager-14.jpg)
+![${file##*/}](wall/voyager-15.jpg)
+![${file##*/}](wall/voyager-16.jpg)
+![${file##*/}](wall/voyager-17.jpg)
+![${file##*/}](wall/voyager-18.jpg)
+![${file##*/}](wall/voyager-19.jpg)
+![${file##*/}](wall/voyager-1.jpg)
+![${file##*/}](wall/voyager-20.jpg)
+![${file##*/}](wall/voyager-21.jpg)
+![${file##*/}](wall/voyager-22.jpg)
+![${file##*/}](wall/voyager-2.jpg)
+![${file##*/}](wall/voyager-3.jpg)
+![${file##*/}](wall/voyager-4.jpg)
+![${file##*/}](wall/voyager-5.jpg)
+![${file##*/}](wall/voyager-6.jpg)
+![${file##*/}](wall/voyager-7.jpg)
+![${file##*/}](wall/voyager-8.jpg)
+![${file##*/}](wall/voyager-9.jpg)
+![${file##*/}](wall/wallhaven-vqoo1p.jpg)
+![${file##*/}](wall/wall.jpg)
+![${file##*/}](wall/wanderer.jpg)
+![${file##*/}](wall/waterfall.png)
+![${file##*/}](wall/waves.png)
+![${file##*/}](wall/whale.jpg)
+![${file##*/}](wall/wheat.png)
+![${file##*/}](wall/windows-xp.jpg)
+![${file##*/}](wall/winter-flowers.jpg)
+![${file##*/}](wall/yohoho.jpg)
+![${file##*/}](wall/zuchold-archtecture.jpg)
