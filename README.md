@@ -4,373 +4,103 @@ Welcome to my collection of wallpapers! This repository contains a variety of hi
 
 Repository URL: [github.com/eldhosekroy/wallpaper](https://github.com/eldhosekroy/wallpaper)
 
-## Wallpapers List
+## Wallpapers Gallery
 
-Below is a sorted table of all wallpapers in the repository. Each entry includes the filename and a small preview for quick viewing.
+Below is a grid of all wallpapers in the repository, sorted alphabetically.
 
-| Filename | Preview |
-|----------|---------|
-| 3d-model.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/3d-model.jpg" width="200"/> |
-| S_aveng1.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng1.jpg" width="200"/> |
-| S_aveng10.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng10.jpg" width="200"/> |
-| S_aveng2.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng2.jpg" width="200"/> |
-| S_aveng3.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng3.jpg" width="200"/> |
-| S_aveng4.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng4.jpg" width="200"/> |
-| S_aveng5.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng5.jpg" width="200"/> |
-| S_aveng6.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng6.jpg" width="200"/> |
-| S_aveng7.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng7.jpg" width="200"/> |
-| S_aveng8.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng8.jpg" width="200"/> |
-| S_aveng9.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng9.jpg" width="200"/> |
-| S_spiderman1.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman1.jpg" width="200"/> |
-| S_spiderman10.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman10.jpg" width="200"/> |
-| S_spiderman2.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman2.jpg" width="200"/> |
-| S_spiderman3.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman3.jpg" width="200"/> |
-| S_spiderman4.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman4.jpg" width="200"/> |
-| S_spiderman5.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman5.jpg" width="200"/> |
-| S_spiderman6.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman6.jpg" width="200"/> |
-| S_spiderman7.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman7.jpg" width="200"/> |
-| S_spiderman8.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman8.jpg" width="200"/> |
-| S_spiderman9.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman9.jpg" width="200"/> |
-| abandoned-trainstation.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/abandoned-trainstation.jpg" width="200"/> |
-| abstract-swirls.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/abstract-swirls.jpg" width="200"/> |
-| aesthetic.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/aesthetic.jpg" width="200"/> |
-| artificial-valley.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/artificial-valley.jpg" width="200"/> |
-| asian-village.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/asian-village.png" width="200"/> |
-| astronaut.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/astronaut.png" width="200"/> |
-| atlantis.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/atlantis.jpg" width="200"/> |
-| bars.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/bars.jpg" width="200"/> |
-| basement.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/basement.jpg" width="200"/> |
-| beach-path.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/beach-path.jpg" width="200"/> |
-| beach.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/beach.jpg" width="200"/> |
-| berries-1.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/berries-1.jpg" width="200"/> |
-| berries-2.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/berries-2.jpg" width="200"/> |
-| biking-sunset.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/biking-sunset.jpg" width="200"/> |
-| black-hole.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/black-hole.png" width="200"/> |
-| blue-flowers.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/blue-flowers.jpg" width="200"/> |
-| blue-kaiju.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/blue-kaiju.png" width="200"/> |
-| blue-landscape.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/blue-landscape.png" width="200"/> |
-| blueberries.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/blueberries.jpg" width="200"/> |
-| blueprint.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/blueprint.png" width="200"/> |
-| bluehour.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/bluehour.jpg" width="200"/> |
-| bsod.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/bsod.png" width="200"/> |
-| bunnies-road.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/bunnies-road.png" width="200"/> |
-| c4-spring-sakura-sky.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/c4-spring-sakura-sky.jpg" width="200"/> |
-| cabin-2.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cabin-2.jpg" width="200"/> |
-| cabin-3.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cabin-3.png" width="200"/> |
-| cabin-4.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cabin-4.png" width="200"/> |
-| cabin.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cabin.png" width="200"/> |
-| call-it-a-day.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/call-it-a-day.jpg" width="200"/> |
-| car-1.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/car-1.png" width="200"/> |
-| car-with-full-moon-background.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/car-with-full-moon-background.jpg" width="200"/> |
-| car-wreck.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/car-wreck.png" width="200"/> |
-| cartoon-castle.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cartoon-castle.png" width="200"/> |
-| castle.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/castle.png" width="200"/> |
-| cat-in-clouds.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cat-in-clouds.png" width="200"/> |
-| cat-vibin.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cat-vibin.png" width="200"/> |
-| chess-gate.jpeg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/chess-gate.jpeg" width="200"/> |
-| city-harbor.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/city-harbor.png" width="200"/> |
-| city-horizon.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/city-horizon.jpg" width="200"/> |
-| city-on-water.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/city-on-water.jpg" width="200"/> |
-| city.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/city.png" width="200"/> |
-| clearing.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/clearing.png" width="200"/> |
-| cliff-path.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cliff-path.jpg" width="200"/> |
-| cloud-coffee.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cloud-coffee.jpg" width="200"/> |
-| clouds-2.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/clouds-2.png" width="200"/> |
-| clouds-3.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/clouds-3.jpg" width="200"/> |
-| clouds-3.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/clouds-3.png" width="200"/> |
-| clouds-5.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/clouds-5.jpg" width="200"/> |
-| clouds.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/clouds.png" width="200"/> |
-| coffee-shop.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/coffee-shop.png" width="200"/> |
-| cold-alley.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cold-alley.png" width="200"/> |
-| compass.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/compass.jpg" width="200"/> |
-| cool.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cool.jpg" width="200"/> |
-| corals-fish-underwater.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/corals-fish-underwater.jpg" width="200"/> |
-| cottages-river.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cottages-river.png" width="200"/> |
-| crane.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/crane.png" width="200"/> |
-| danbo.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/danbo.jpg" width="200"/> |
-| dark-forest.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dark-forest.jpg" width="200"/> |
-| dark-star.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dark-star.jpg" width="200"/> |
-| dark-waves.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dark-waves.jpg" width="200"/> |
-| day-forest-path.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/day-forest-path.png" width="200"/> |
-| deer-glade.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/deer-glade.jpg" width="200"/> |
-| degirled.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/degirled.png" width="200"/> |
-| demon1.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon1.jpg" width="200"/> |
-| demon10.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon10.jpg" width="200"/> |
-| demon2.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon2.jpg" width="200"/> |
-| demon3.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon3.jpg" width="200"/> |
-| demon4.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon4.jpg" width="200"/> |
-| demon5.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon5.jpg" width="200"/> |
-| demon6.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon6.jpg" width="200"/> |
-| demon7.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon7.jpg" width="200"/> |
-| demon8.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon8.jpg" width="200"/> |
-| demon9.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon9.jpg" width="200"/> |
-| desolate-city-2.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/desolate-city-2.jpg" width="200"/> |
-| desolate-city.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/desolate-city.jpg" width="200"/> |
-| diner-lonely-road.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/diner-lonely-road.jpg" width="200"/> |
-| dino.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dino.jpg" width="200"/> |
-| disco.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/disco.png" width="200"/> |
-| dominik-mayer-1.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-1.jpg" width="200"/> |
-| dominik-mayer-10.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-10.jpg" width="200"/> |
-| dominik-mayer-11.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-11.jpg" width="200"/> |
-| dominik-mayer-12.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-12.jpg" width="200"/> |
-| dominik-mayer-13.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-13.jpg" width="200"/> |
-| dominik-mayer-14.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-14.jpg" width="200"/> |
-| dominik-mayer-15.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-15.jpg" width="200"/> |
-| dominik-mayer-16.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-16.jpg" width="200"/> |
-| dominik-mayer-17.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-17.jpg" width="200"/> |
-| dominik-mayer-18.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-18.png" width="200"/> |
-| dominik-mayer-19.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-19.jpg" width="200"/> |
-| dominik-mayer-2.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-2.jpg" width="200"/> |
-| dominik-mayer-20.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-20.jpg" width="200"/> |
-| dominik-mayer-21.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-21.jpg" width="200"/> |
-| dominik-mayer-22.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-22.jpg" width="200"/> |
-| dominik-mayer-23.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-23.jpg" width="200"/> |
-| dominik-mayer-24.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-24.jpg" width="200"/> |
-| dominik-mayer-25.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-25.jpg" width="200"/> |
-| dominik-mayer-26.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-26.jpg" width="200"/> |
-| dominik-mayer-4.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-4.jpg" width="200"/> |
-| dominik-mayer-5.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-5.jpg" width="200"/> |
-| dominik-mayer-6.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-6.jpg" width="200"/> |
-| dominik-mayer-7.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-7.jpg" width="200"/> |
-| dominik-mayer-8.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-8.jpg" width="200"/> |
-| dominik-mayer-9.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-9.jpg" width="200"/> |
-| dragon.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dragon.jpg" width="200"/> |
-| droplets.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/droplets.png" width="200"/> |
-| dwarf-saber.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dwarf-saber.jpg" width="200"/> |
-| eclipse.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/eclipse.jpg" width="200"/> |
-| excalibur-lake.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/excalibur-lake.jpg" width="200"/> |
-| fantasy-city.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/fantasy-city.jpg" width="200"/> |
-| fight.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/fight.jpg" width="200"/> |
-| fishing.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/fishing.jpg" width="200"/> |
-| flower-branch.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flower-branch.png" width="200"/> |
-| flower-field-2.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flower-field-2.png" width="200"/> |
-| flower-field-3.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flower-field-3.png" width="200"/> |
-| flower-field.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flower-field.jpg" width="200"/> |
-| flower.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flower.jpg" width="200"/> |
-| flowering-rain.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowering-rain.png" width="200"/> |
-| flowers-1.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-1.jpg" width="200"/> |
-| flowers-10.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-10.jpg" width="200"/> |
-| flowers-11.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-11.jpg" width="200"/> |
-| flowers-12.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-12.jpg" width="200"/> |
-| flowers-13.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-13.jpg" width="200"/> |
-| flowers-14.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-14.jpg" width="200"/> |
-| flowers-15.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-15.jpg" width="200"/> |
-| flowers-16.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-16.jpg" width="200"/> |
-| flowers-17.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-17.png" width="200"/> |
-| flowers-18.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-18.jpg" width="200"/> |
-| flowers-19.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-19.jpg" width="200"/> |
-| flowers-2.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-2.jpg" width="200"/> |
-| flowers-20.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-20.jpg" width="200"/> |
-| flowers-21.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-21.png" width="200"/> |
-| flowers-3.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-3.jpg" width="200"/> |
-| flowers-4.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-4.jpg" width="200"/> |
-| flowers-5.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-5.jpg" width="200"/> |
-| flowers-6.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-6.jpg" width="200"/> |
-| flowers-7.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-7.jpg" width="200"/> |
-| flowers-8.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-8.jpg" width="200"/> |
-| flowers-9.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-9.jpg" width="200"/> |
-| flying-boat.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flying-boat.jpg" width="200"/> |
-| flying-comets-clouds.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flying-comets-clouds.jpg" width="200"/> |
-| foggy-city.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/foggy-city.jpg" width="200"/> |
-| fox.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/fox.png" width="200"/> |
-| fumo-fumo.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/fumo-fumo.jpg" width="200"/> |
-| galaxy-waves.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/galaxy-waves.jpg" width="200"/> |
-| genshin-landscape.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/genshin-landscape.png" width="200"/> |
-| gentlemen-sunset.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/gentlemen-sunset.png" width="200"/> |
-| gingerbread-house.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/gingerbread-house.jpg" width="200"/> |
-| girl-stars.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/girl-stars.png" width="200"/> |
-| grandfather-tree.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/grandfather-tree.jpg" width="200"/> |
-| grassy-well.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/grassy-well.jpg" width="200"/> |
-| green-bridge.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/green-bridge.jpg" width="200"/> |
-| greenbus.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/greenbus.jpg" width="200"/> |
-| harbor-3.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/harbor-3.png" width="200"/> |
-| harbor.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/harbor.jpg" width="200"/> |
-| haunted-house.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/haunted-house.jpg" width="200"/> |
-| hollow-knight.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/hollow-knight.jpg" width="200"/> |
-| hollow-knight.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/hollow-knight.png" width="200"/> |
-| hollow.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/hollow.jpg" width="200"/> |
-| horizon-2.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/horizon-2.jpg" width="200"/> |
-| horizon.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/horizon.jpg" width="200"/> |
-| i-touch-this.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/i-touch-this.jpg" width="200"/> |
-| ice-cream.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/ice-cream.jpg" width="200"/> |
-| idk-tbh.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/idk-tbh.png" width="200"/> |
-| isekai.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/isekai.jpg" width="200"/> |
-| japan-alley.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/japan-alley.png" width="200"/> |
-| jellyfish.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/jellyfish.jpg" width="200"/> |
-| jupiter.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/jupiter.png" width="200"/> |
-| kaiju.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/kaiju.png" width="200"/> |
-| keyboard-2.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/keyboard-2.png" width="200"/> |
-| keyboard.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/keyboard.png" width="200"/> |
-| kfc.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/kfc.jpg" width="200"/> |
-| kitchen.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/kitchen.png" width="200"/> |
-| kitty.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/kitty.jpg" width="200"/> |
-| kiwis.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/kiwis.jpg" width="200"/> |
-| knight-building.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/knight-building.png" width="200"/> |
-| knight-sit.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/knight-sit.png" width="200"/> |
-| knight-templar.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/knight-templar.jpg" width="200"/> |
-| knights-radiant.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/knights-radiant.jpg" width="200"/> |
-| koi.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/koi.jpg" width="200"/> |
-| koishi.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/koishi.jpg" width="200"/> |
-| kusuriya.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/kusuriya.png" width="200"/> |
-| lantern-light-room.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/lantern-light-room.png" width="200"/> |
-| laundry.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/laundry.jpg" width="200"/> |
-| lighthouse-2.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/lighthouse-2.png" width="200"/> |
-| lighthouse.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/lighthouse.jpg" width="200"/> |
-| lightbulbs.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/lightbulbs.jpg" width="200"/> |
-| link-click-1.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/link-click-1.png" width="200"/> |
-| linux-communism.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/linux-communism.jpg" width="200"/> |
-| lit-up-sky.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/lit-up-sky.png" width="200"/> |
-| lofiwallpaper.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/lofiwallpaper.png" width="200"/> |
-| lovely-summer.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/lovely-summer.jpg" width="200"/> |
-| mage.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/mage.jpg" width="200"/> |
-| main-street.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/main-street.png" width="200"/> |
-| maji-no-tabitabi-2.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/maji-no-tabitabi-2.jpg" width="200"/> |
-| maji-no-tabitabi-3.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/maji-no-tabitabi-3.jpg" width="200"/> |
-| majo-no-tabitabi.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/majo-no-tabitabi.jpg" width="200"/> |
-| map.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/map.png" width="200"/> |
-| marine-tunnel.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/marine-tunnel.jpg" width="200"/> |
-| math.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/math.png" width="200"/> |
-| minimalist-black-hole.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/minimalist-black-hole.png" width="200"/> |
-| misty-boat.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/misty-boat.jpg" width="200"/> |
-| moon-beach.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/moon-beach.png" width="200"/> |
-| moscow.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/moscow.jpg" width="200"/> |
-| mountain-range.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/mountain-range.jpg" width="200"/> |
-| mushishi.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/mushishi.jpg" width="200"/> |
-| my-neighbor-totoro-sunflowers.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/my-neighbor-totoro-sunflowers.png" width="200"/> |
-| nice-blue-background.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/nice-blue-background.png" width="200"/> |
-| night-forest-path.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/night-forest-path.png" width="200"/> |
-| old-car.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/old-car.jpg" width="200"/> |
-| old-computer.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/old-computer.png" width="200"/> |
-| one-legged-herdazian.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/one-legged-herdazian.jpg" width="200"/> |
-| orange.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/orange.jpg" width="200"/> |
-| output.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/output.jpg" width="200"/> |
-| oversized-cat.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/oversized-cat.jpg" width="200"/> |
-| painting-standing.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/painting-standing.jpg" width="200"/> |
-| painting.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/painting.jpg" width="200"/> |
-| paint.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/paint.jpg" width="200"/> |
-| panes.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/panes.jpg" width="200"/> |
-| pine.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pine.jpg" width="200"/> |
-| pink-clouds.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pink-clouds.jpg" width="200"/> |
-| pistachio-tea.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pistachio-tea.jpg" width="200"/> |
-| pitstop.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pitstop.png" width="200"/> |
-| pixel-car.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pixel-car.png" width="200"/> |
-| pixel-castle.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pixel-castle.png" width="200"/> |
-| pixel-galaxy.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pixel-galaxy.png" width="200"/> |
-| pixel-napping.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pixel-napping.png" width="200"/> |
-| pixel-planet.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pixel-planet.png" width="200"/> |
-| pixel-prairie.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pixel-prairie.jpg" width="200"/> |
-| pixel-reading.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pixel-reading.png" width="200"/> |
-| plane-purple.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/plane-purple.png" width="200"/> |
-| platform.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/platform.jpg" width="200"/> |
-| pompeii.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pompeii.png" width="200"/> |
-| puffy-stars.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/puffy-stars.jpg" width="200"/> |
-| purple-horizon.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/purple-horizon.jpg" width="200"/> |
-| purpled-night.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/purpled-night.jpg" width="200"/> |
-| railroad-2.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/railroad-2.jpg" width="200"/> |
-| railroad-cat.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/railroad-cat.png" width="200"/> |
-| railroad-flowers.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/railroad-flowers.jpg" width="200"/> |
-| railroad-horizon.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/railroad-horizon.png" width="200"/> |
-| rainy-window.jpeg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/rainy-window.jpeg" width="200"/> |
-| red-city.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/red-city.png" width="200"/> |
-| retro2_live.gif | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/retro2_live.gif" width="200"/> |
-| river-city.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/river-city.jpg" width="200"/> |
-| road.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/road.jpg" width="200"/> |
-| rocket-launch.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/rocket-launch.jpg" width="200"/> |
-| rocket-schematics.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/rocket-schematics.jpg" width="200"/> |
-| rooftops.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/rooftops.jpg" width="200"/> |
-| ruins.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/ruins.jpg" width="200"/> |
-| sakura-aura.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/sakura-aura.jpg" width="200"/> |
-| sakura-gate.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/sakura-gate.jpg" width="200"/> |
-| sakura-trees-over-river.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/sakura-trees-over-river.jpg" width="200"/> |
-| salty-suburban.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/salty-suburban.jpg" width="200"/> |
-| samurai.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/samurai.jpg" width="200"/> |
-| satellite.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/satellite.png" width="200"/> |
-| scifi.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/scifi.jpg" width="200"/> |
-| serenity.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/serenity.jpg" width="200"/> |
-| shaded-landscape.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/shaded-landscape.png" width="200"/> |
-| shaded.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/shaded.png" width="200"/> |
-| shadow-shape-holo.jpeg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/shadow-shape-holo.jpeg" width="200"/> |
-| ship-2.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/ship-2.png" width="200"/> |
-| ship-3.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/ship-3.jpg" width="200"/> |
-| shrimp-fried-rice.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/shrimp-fried-rice.jpg" width="200"/> |
-| signal-enthusiast.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/signal-enthusiast.jpg" width="200"/> |
-| snowflakes.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/snowflakes.jpg" width="200"/> |
-| snowy-map.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/snowy-map.png" width="200"/> |
-| snowy-train.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/snowy-train.jpg" width="200"/> |
-| soaring-off.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/soaring-off.jpg" width="200"/> |
-| soft-rose.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/soft-rose.jpg" width="200"/> |
-| sousou-no-frieren-flowers.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/sousou-no-frieren-flowers.png" width="200"/> |
-| south-pole.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/south-pole.jpg" width="200"/> |
-| space-piano.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/space-piano.png" width="200"/> |
-| space.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/space.jpg" width="200"/> |
-| space.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/space.png" width="200"/> |
-| square-city.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/square-city.jpg" width="200"/> |
-| stall.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/stall.jpg" width="200"/> |
-| storm.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/storm.jpg" width="200"/> |
-| stormlight-archive.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/stormlight-archive.png" width="200"/> |
-| street-4.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/street-4.png" width="200"/> |
-| street.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/street.png" width="200"/> |
-| subway.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/subway.jpg" width="200"/> |
-| sunken-tower.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/sunken-tower.png" width="200"/> |
-| sunset.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/sunset.jpg" width="200"/> |
-| sushi.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/sushi.jpg" width="200"/> |
-| swirls.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/swirls.jpg" width="200"/> |
-| swirly-painting.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/swirly-painting.jpg" width="200"/> |
-| sword.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/sword.jpg" width="200"/> |
-| tank.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/tank.jpg" width="200"/> |
-| temple.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/temple.jpg" width="200"/> |
-| toast.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/toast.png" width="200"/> |
-| tora.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/tora.jpg" width="200"/> |
-| touhou-house.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/touhou-house.jpg" width="200"/> |
-| touhou-lake.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/touhou-lake.jpg" width="200"/> |
-| tower.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/tower.png" width="200"/> |
-| train-sideview.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/train-sideview.png" width="200"/> |
-| train-station.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/train-station.jpg" width="200"/> |
-| tree-stump.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/tree-stump.jpg" width="200"/> |
-| tree.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/tree.jpg" width="200"/> |
-| trippy-purple.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/trippy-purple.png" width="200"/> |
-| trolley.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/trolley.jpg" width="200"/> |
-| tux-socialism.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/tux-socialism.jpg" width="200"/> |
-| underwater-deep.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/underwater-deep.jpg" width="200"/> |
-| van-chilling.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/van-chilling.png" width="200"/> |
-| venice-market.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/venice-market.png" width="200"/> |
-| vibrant-gate.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/vibrant-gate.png" width="200"/> |
-| village-gate.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/village-gate.jpg" width="200"/> |
-| voxel-city.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voxel-city.jpg" width="200"/> |
-| voxel-houses-monochrome.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voxel-houses-monochrome.png" width="200"/> |
-| voyager-1.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-1.jpg" width="200"/> |
-| voyager-10.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-10.jpg" width="200"/> |
-| voyager-11.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-11.jpg" width="200"/> |
-| voyager-12.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-12.jpg" width="200"/> |
-| voyager-13.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-13.jpg" width="200"/> |
-| voyager-14.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-14.jpg" width="200"/> |
-| voyager-15.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-15.jpg" width="200"/> |
-| voyager-16.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-16.jpg" width="200"/> |
-| voyager-17.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-17.jpg" width="200"/> |
-| voyager-18.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-18.jpg" width="200"/> |
-| voyager-19.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-19.jpg" width="200"/> |
-| voyager-2.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-2.jpg" width="200"/> |
-| voyager-20.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-20.jpg" width="200"/> |
-| voyager-21.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-21.jpg" width="200"/> |
-| voyager-22.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-22.jpg" width="200"/> |
-| voyager-3.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-3.jpg" width="200"/> |
-| voyager-4.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-4.jpg" width="200"/> |
-| voyager-5.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-5.jpg" width="200"/> |
-| voyager-6.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-6.jpg" width="200"/> |
-| voyager-7.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-7.jpg" width="200"/> |
-| voyager-8.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-8.jpg" width="200"/> |
-| voyager-9.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-9.jpg" width="200"/> |
-| wall.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/wall.jpg" width="200"/> |
-| wallhaven-vqoo1p.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/wallhaven-vqoo1p.jpg" width="200"/> |
-| wanderer.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/wanderer.jpg" width="200"/> |
-| waterfall.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/waterfall.png" width="200"/> |
-| waves.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/waves.png" width="200"/> |
-| whale.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/whale.jpg" width="200"/> |
-| wheat.png | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/wheat.png" width="200"/> |
-| windows-xp.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/windows-xp.jpg" width="200"/> |
-| winter-flowers.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/winter-flowers.jpg" width="200"/> |
-| yohoho.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/yohoho.jpg" width="200"/> |
-| zuchold-archtecture.jpg | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/zuchold-archtecture.jpg" width="200"/> |
+| | | | |
+|---|---|---|---|
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/3d-model.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng1.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng10.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng2.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng3.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng4.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng5.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng6.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng7.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng8.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_aveng9.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman1.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman10.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman2.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman3.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman4.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman5.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman6.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman7.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman8.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/S_spiderman9.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/abandoned-trainstation.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/abstract-swirls.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/aesthetic.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/artificial-valley.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/asian-village.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/astronaut.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/atlantis.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/bars.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/basement.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/beach-path.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/beach.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/berries-1.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/berries-2.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/biking-sunset.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/black-hole.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/blue-flowers.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/blue-kaiju.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/blue-landscape.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/blueberries.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/blueprint.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/bluehour.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/bsod.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/bunnies-road.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/c4-spring-sakura-sky.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cabin-2.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cabin-3.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cabin-4.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cabin.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/call-it-a-day.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/car-1.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/car-with-full-moon-background.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/car-wreck.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cartoon-castle.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/castle.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cat-in-clouds.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cat-vibin.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/chess-gate.jpeg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/city-harbor.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/city-horizon.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/city-on-water.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/city.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/clearing.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cliff-path.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cloud-coffee.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/clouds-2.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/clouds-3.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/clouds-3.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/clouds-5.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/clouds.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/coffee-shop.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cold-alley.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/compass.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cool.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/corals-fish-underwater.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/cottages-river.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/crane.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/danbo.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dark-forest.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dark-star.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dark-waves.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/day-forest-path.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/deer-glade.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/degirled.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon1.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon10.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon2.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon3.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon4.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon5.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon6.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon7.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon8.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/demon9.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/desolate-city-2.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/desolate-city.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/diner-lonely-road.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dino.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/disco.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-1.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-10.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-11.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-12.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-13.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-14.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-15.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-16.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-17.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-18.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-19.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-2.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-20.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-21.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-22.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-23.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-24.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-25.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-26.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-4.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-5.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-6.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-7.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-8.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dominik-mayer-9.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dragon.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/droplets.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/dwarf-saber.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/eclipse.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/excalibur-lake.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/fantasy-city.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/fight.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/fishing.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flower-branch.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flower-field-2.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flower-field-3.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flower-field.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flower.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowering-rain.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-1.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-10.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-11.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-12.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-13.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-14.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-15.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-16.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-17.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-18.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-19.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-2.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-20.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-21.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-3.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-4.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-5.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-6.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-7.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-8.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flowers-9.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flying-boat.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/flying-comets-clouds.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/foggy-city.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/fox.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/fumo-fumo.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/galaxy-waves.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/genshin-landscape.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/gentlemen-sunset.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/gingerbread-house.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/girl-stars.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/grandfather-tree.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/grassy-well.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/green-bridge.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/greenbus.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/harbor-3.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/harbor.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/haunted-house.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/hollow-knight.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/hollow-knight.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/hollow.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/horizon-2.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/horizon.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/i-touch-this.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/ice-cream.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/idk-tbh.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/isekai.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/japan-alley.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/jellyfish.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/jupiter.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/kaiju.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/keyboard-2.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/keyboard.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/kfc.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/kitchen.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/kitty.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/kiwis.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/knight-building.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/knight-sit.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/knight-templar.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/knights-radiant.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/koi.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/koishi.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/kusuriya.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/lantern-light-room.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/laundry.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/lighthouse-2.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/lighthouse.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/lightbulbs.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/link-click-1.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/linux-communism.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/lit-up-sky.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/lofiwallpaper.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/lovely-summer.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/mage.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/main-street.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/maji-no-tabitabi-2.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/maji-no-tabitabi-3.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/majo-no-tabitabi.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/map.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/marine-tunnel.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/math.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/minimalist-black-hole.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/misty-boat.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/moon-beach.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/moscow.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/mountain-range.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/mushishi.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/my-neighbor-totoro-sunflowers.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/nice-blue-background.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/night-forest-path.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/old-car.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/old-computer.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/one-legged-herdazian.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/orange.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/output.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/oversized-cat.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/painting-standing.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/painting.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/paint.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/panes.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pine.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pink-clouds.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pistachio-tea.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pitstop.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pixel-car.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pixel-castle.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pixel-galaxy.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pixel-napping.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pixel-planet.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pixel-prairie.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pixel-reading.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/plane-purple.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/platform.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/pompeii.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/puffy-stars.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/purple-horizon.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/purpled-night.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/railroad-2.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/railroad-cat.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/railroad-flowers.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/railroad-horizon.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/rainy-window.jpeg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/red-city.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/retro2_live.gif" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/river-city.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/road.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/rocket-launch.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/rocket-schematics.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/rooftops.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/ruins.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/sakura-aura.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/sakura-gate.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/sakura-trees-over-river.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/salty-suburban.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/samurai.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/satellite.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/scifi.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/serenity.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/shaded-landscape.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/shaded.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/shadow-shape-holo.jpeg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/ship-2.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/ship-3.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/shrimp-fried-rice.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/signal-enthusiast.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/snowflakes.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/snowy-map.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/snowy-train.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/soaring-off.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/soft-rose.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/sousou-no-frieren-flowers.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/south-pole.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/space-piano.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/space.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/space.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/square-city.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/stall.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/storm.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/stormlight-archive.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/street-4.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/street.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/subway.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/sunken-tower.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/sunset.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/sushi.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/swirls.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/swirly-painting.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/sword.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/tank.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/temple.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/toast.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/tora.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/touhou-house.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/touhou-lake.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/tower.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/train-sideview.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/train-station.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/tree-stump.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/tree.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/trippy-purple.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/trolley.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/tux-socialism.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/underwater-deep.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/van-chilling.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/venice-market.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/vibrant-gate.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/village-gate.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voxel-city.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voxel-houses-monochrome.png" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-1.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-10.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-11.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-12.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-13.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-14.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-15.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-16.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-17.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-18.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-19.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-2.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-20.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-21.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-22.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-3.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-4.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-5.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-6.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-7.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-8.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/voyager-9.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/wall.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/wallhaven-vqoo1p.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/wanderer.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/waterfall.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/waves.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/whale.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/wheat.png" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/windows-xp.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/winter-flowers.jpg" width="200"/> | <img src="https://github.com/eldhosekroy/wallpaper/raw/main/yohoho.jpg" width="200"/> |
+| <img src="https://github.com/eldhosekroy/wallpaper/raw/main/zuchold-archtecture.jpg" width="200"/> |  |  |  |
 
 ## Usage
 
