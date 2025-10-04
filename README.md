@@ -1,4 +1,4 @@
-![${file##*/}](wall/3d-model.jpg)
+![${file##*/}](wallpaper/3d-model.jpg)
 ![${file##*/}](wall/abandoned-trainstation.jpg)
 ![${file##*/}](wall/abstract-swirls.jpg)
 ![${file##*/}](wall/aesthetic.jpg)
